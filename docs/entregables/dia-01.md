@@ -31,7 +31,6 @@ revision_docente: "PENDIENTE"
 | Plan de sustitución si falla el espacio | Pedir prestado al equipo de robótica|
 | Instructor o supervisor presente en la sesión | Camilo Rene Duque |
 
-> ⛔ **No se permite avanzar a pruebas físicas sin dōjō concreto y autorización del responsable.** No inventar salón, número de laboratorio ni recursos que no hayan sido confirmados.
 
 ## 1 · Integrantes, responsabilidades, accesibilidad y decisiones (0–15 min)
 
