@@ -26,7 +26,7 @@ revision_docente: "PENDIENTE"
 | Responsable del espacio y contacto institucional | Camilo Rene Duque, Director de Mecatrónica. Canal institucional: camilo.duque@tec.mx |
 | Acceso, aforo y ajustes de accesibilidad | Sin restricciones de acceso o aforo; sin ajustes de accesibilidad necesarios |
 | Salidas, botiquín, extintor y punto de reunión | Validar si existe |
-| Zonas segregadas por riesgo | PENDIENTE A AGREGAR |
+| Zonas segregadas por riesgo | N/A |
 | Ubicación de materiales y resguardo nocturno | Locker de Artemis. Responsables: Marian Zamarripa, Juan Carlos Muñoz y Fátima Romero |
 | Plan de sustitución si falla el espacio | Pedir prestado al equipo de robótica|
 | Instructor o supervisor presente en la sesión | Camilo Rene Duque |
