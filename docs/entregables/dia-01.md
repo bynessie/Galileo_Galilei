@@ -11,9 +11,6 @@ revision_docente: "PENDIENTE"
 
 # E1 · Día 1 — ATREVERSE | Contrato de misión, inventario y dōjō
 
-> **Regla:** sustituir los corchetes, registrar lo realmente observado y enlazar a evidencias del repositorio. **No inventar datos ni marcar pruebas no realizadas.** Los archivos del equipo resumen el trabajo compartido; las reflexiones y evidencias personales van en `participantes/<alias>/dias/E1.md`.
-
-> Convención de este documento: **PENDIENTE A AGREGAR** = dato que el equipo aún no ha proporcionado o confirmado.
 
 ## 0 · Identificación, equipo y logística del dōjō
 
@@ -26,12 +23,12 @@ revision_docente: "PENDIENTE"
 | **Dōjō asignado — campus, edificio y sala/taller exactos** | **Laboratorio de electrónica de CTA** |
 | Puesto o zona dentro del dōjō | Dohyō |
 | Horario / reserva confirmada | 09:00–11:00 del 2026-10-26; autorizó: Camilo Rene Duque |
-| Responsable del espacio y contacto institucional | Camilo Rene Duque, Director de Mecatrónica. Canal institucional: PENDIENTE A AGREGAR |
+| Responsable del espacio y contacto institucional | Camilo Rene Duque, Director de Mecatrónica. Canal institucional: camilo.duque@tec.mx |
 | Acceso, aforo y ajustes de accesibilidad | Sin restricciones de acceso o aforo; sin ajustes de accesibilidad necesarios |
-| Salidas, botiquín, extintor y punto de reunión | PENDIENTE A AGREGAR (validar al llegar) |
+| Salidas, botiquín, extintor y punto de reunión | Validar si existe |
 | Zonas segregadas por riesgo | PENDIENTE A AGREGAR |
 | Ubicación de materiales y resguardo nocturno | Locker de Artemis. Responsables: Marian Zamarripa, Juan Carlos Muñoz y Fátima Romero |
-| Plan de sustitución si falla el espacio | PENDIENTE A AGREGAR (dōjō alternativo autorizado) |
+| Plan de sustitución si falla el espacio | Pedir prestado al equipo de robótica|
 | Instructor o supervisor presente en la sesión | Camilo Rene Duque |
 
 > ⛔ **No se permite avanzar a pruebas físicas sin dōjō concreto y autorización del responsable.** No inventar salón, número de laboratorio ni recursos que no hayan sido confirmados.
