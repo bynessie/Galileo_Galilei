@@ -5,7 +5,7 @@ evidencia: "E1"
 dia: 1
 responsable_registro: "equipo"
 estado: "PENDIENTE"
-fecha: "AAAA-MM-DD"
+fecha: "2026-10-26"
 revision_docente: "PENDIENTE"
 ---
 
@@ -13,24 +13,26 @@ revision_docente: "PENDIENTE"
 
 > **Regla:** sustituir los corchetes, registrar lo realmente observado y enlazar a evidencias del repositorio. **No inventar datos ni marcar pruebas no realizadas.** Los archivos del equipo resumen el trabajo compartido; las reflexiones y evidencias personales van en `participantes/<alias>/dias/E1.md`.
 
+> Convención de este documento: **PENDIENTE A AGREGAR** = dato que el equipo aún no ha proporcionado o confirmado.
+
 ## 0 · Identificación, equipo y logística del dōjō
 
 | Campo obligatorio | Dato |
 |---|---|
-| Fecha y horario de esta sesión | [AAAA-MM-DD; HH:MM–HH:MM, 180 min] |
-| Nombre / alias del equipo | [kd26-mXX-equipoYY] |
-| Misión / plataforma | [M01 mini-sumo autónomo / M03 seguidor / M04 Tello Python / M05 AMR ROS 2] |
-| Objetivo verificable del robot (una frase) | [Acción + condiciones + éxito] |
-| **Dōjō asignado — campus, edificio y sala/taller exactos** | **[Campus ___ / Edificio ___ / Sala o taller ___ / Nº de laboratorio ___]** |
-| Puesto o zona dentro del dōjō | [Mesa, banco, espacio de vuelo, pista, dohyō o estación] |
-| Horario / reserva confirmada | [Fechas y bloque horario; quien la autorizó] |
-| Responsable del espacio y contacto institucional | [Nombre/cargo y canal institucional, sin publicar teléfonos privados] |
-| Acceso, aforo y ajustes de accesibilidad | [Restricciones de ingreso, capacidad, adecuaciones necesarias] |
-| Salidas, botiquín, extintor y punto de reunión | [Ubicación real validada al llegar] |
-| Zonas segregadas por riesgo | [Vuelo / herramientas / tránsito AMR / ensayo de pista] |
-| Ubicación de materiales y resguardo nocturno | [Gabinete/estante/inventario; responsable] |
-| Plan de sustitución si falla el espacio | [Dōjō alternativo con autorización; no improvisar espacio de vuelo] |
-| Instructor o supervisor presente en la sesión | [@alias / nombre institucional] |
+| Fecha y horario de esta sesión | 2026-10-26; 09:00–11:00 (horario reservado indicado por el equipo) |
+| Nombre / alias del equipo | ChocoTeam (alias con formato `kd26-m01-equipoYY`: PENDIENTE A AGREGAR) |
+| Misión / plataforma | M01 mini-sumo autónomo (robot MOCHI) |
+| Objetivo verificable del robot (una frase) | Optimizar los procesos de un minisumo y realizar un robot 100% competitivo. *(Criterio de éxito medible: PENDIENTE A AGREGAR)* |
+| **Dōjō asignado — campus, edificio y sala/taller exactos** | **Laboratorio de electrónica de CTA** |
+| Puesto o zona dentro del dōjō | Dohyō |
+| Horario / reserva confirmada | 09:00–11:00 del 2026-10-26; autorizó: Camilo Rene Duque |
+| Responsable del espacio y contacto institucional | Camilo Rene Duque, Director de Mecatrónica. Canal institucional: PENDIENTE A AGREGAR |
+| Acceso, aforo y ajustes de accesibilidad | Sin restricciones de acceso o aforo; sin ajustes de accesibilidad necesarios |
+| Salidas, botiquín, extintor y punto de reunión | PENDIENTE A AGREGAR (validar al llegar) |
+| Zonas segregadas por riesgo | PENDIENTE A AGREGAR |
+| Ubicación de materiales y resguardo nocturno | Locker de Artemis. Responsables: Marian Zamarripa, Juan Carlos Muñoz y Fátima Romero |
+| Plan de sustitución si falla el espacio | PENDIENTE A AGREGAR (dōjō alternativo autorizado) |
+| Instructor o supervisor presente en la sesión | Camilo Rene Duque |
 
 > ⛔ **No se permite avanzar a pruebas físicas sin dōjō concreto y autorización del responsable.** No inventar salón, número de laboratorio ni recursos que no hayan sido confirmados.
 
@@ -38,38 +40,48 @@ revision_docente: "PENDIENTE"
 
 | Alias GitHub | Rol inicial | Carta y frontera (D/S/E; F1–F4) | Alcances ID (1–3) | Kit personal (archivo) | Necesidad de apoyo o accesibilidad acordada |
 |---|---|---|---|---|---|
-| [@alias-1] | [Integración / documentación / seguridad / pruebas ...] | [D · F1 · D1] | [MS01, MS02] | [`../../participantes/alias/compromiso.md`](../../participantes/_plantilla/compromiso.md) | [Acordar con la persona sin registrar datos sensibles] |
-| [@alias-2] | [...] | [...] | [...] | [enlace] | [...] |
+| @a00574470-hash (Jonathan Escamilla) | Programador | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | `participantes/a00574470-hash/compromiso.md` (subida: PENDIENTE A AGREGAR) | PENDIENTE A AGREGAR |
+| @carlangas1291 (Carlos Muñoz) | Manufactura | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | `participantes/carlangas1291/compromiso.md` (subida: PENDIENTE A AGREGAR) | PENDIENTE A AGREGAR |
+| @choco (Fátima Romero) | Diseñadora CAD | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | `participantes/choco/compromiso.md` (subida: PENDIENTE A AGREGAR) | PENDIENTE A AGREGAR |
+| @bynessie (Marian Zamarripa) | Manufactura y logística | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | `participantes/bynessie/compromiso.md` (subida: PENDIENTE A AGREGAR) | PENDIENTE A AGREGAR |
 
-**Acuerdo de colaboración:** [Cómo se toman decisiones, cómo se resuelven conflictos, apoyos senpai–kōhai, pausas y distribución equitativa de participación.]
+**Acuerdo de colaboración:** PENDIENTE A AGREGAR (cómo se toman decisiones, cómo se resuelven conflictos, apoyos senpai–kōhai, pausas y distribución equitativa de participación).
 
 ## 2 · Demostración de la plataforma y seguridad (15–35 min)
 
 | Elemento | Observación directa | Evidencia / vínculo |
 |---|---|---|
-| Plataforma base inspeccionada (estado, modelo, ID inventario) | [ ] | [enlace / foto no sensible] |
-| Funciones existentes y límites comprobados | [ ] | [enlace] |
-| Paro de emergencia / desconexión segura ensayados | [ ] | [enlace / tutor responsable] |
-| Restricciones de competición o exhibición verificadas | [ ] | [fuente / por verificar] |
-| Riesgos vistos y medidas activas | [ ] | [docs/seguridad.md] |
+| Plataforma base inspeccionada (estado, modelo, ID inventario) | Robot MOCHI (mini-sumo). Estado: diseñado. ID de inventario: PENDIENTE A AGREGAR | `BOM_MOCHI.pdf` (ruta en repositorio: PENDIENTE A AGREGAR); fotos: PENDIENTE A AGREGAR |
+| Funciones existentes y límites comprobados | Límites considerados: limitantes de la maquinaria y falta de tiempo para un desempeño máximo | PENDIENTE A AGREGAR |
+| Paro de emergencia / desconexión segura ensayados | **No ensayados** | — |
+| Restricciones de competición o exhibición verificadas | Reglamento de referencia: Robolympics. Verificación puntual de reglas: PENDIENTE A AGREGAR | Fuente: reglamento Robolympics (enlace: PENDIENTE A AGREGAR) |
+| Riesgos vistos y medidas activas | PENDIENTE A AGREGAR | `docs/seguridad.md` (PENDIENTE A AGREGAR) |
 
-**Normas específicas según misión:**
-- **M01:** protecciones de alimentación; desarmar motores antes de tocar ruedas; dohyō delimitado, rival de referencia y bordes seguros.
-- **M03:** pista despejada, altura/posición de sensores controlada, baterías y ruedas comprobadas.
-- **M04:** espacio interior autorizado, observador humano, altura y desplazamientos limitados, baterías y aterrizaje inmediato; *verificar modelo real de Tello*.
-- **M05:** ROS 2 y TF/navegación listos; límites de velocidad, sensor de obstáculos, paro seguro y zona de tránsito marcada.
+**Normas específicas según misión (M01):** protecciones de alimentación; desarmar motores antes de tocar ruedas; dohyō delimitado, rival de referencia y bordes seguros.
 
 ## 3 · Diagnóstico práctico colectivo (35–65 min)
 
-**Condición inicial V0 de la plataforma:** [Robot completo / kit / subensambles / simulador; qué funciona y qué falta]
+**Condición inicial V0 de la plataforma:** Robot MOCHI en estado de diseño. Existen BOM, firmware principal y guía de código (ver capacidades documentadas abajo). Qué funciona y qué falta en físico: PENDIENTE A AGREGAR.
 
 | Prueba diagnóstica | Condición y procedimiento | Resultado observado / unidad | Problema / causa probable | Evidencia |
 |---|---|---|---|---|
-| [1: movimiento o comunicación] | [...] | [...] | [...] | [enlace] |
-| [2: lectura de sensor] | [...] | [...] | [...] | [enlace] |
-| [3: comportamiento de la misión] | [...] | [...] | [...] | [enlace] |
+| 1: movimiento o comunicación | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| 2: lectura de sensor | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| 3: comportamiento de la misión | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
 
-**Capacidades ya disponibles y dependencias:** [qué módulos se pueden reutilizar, y qué necesita cada alcance de otro integrante.]
+*No se registran pruebas realizadas en esta sesión.*
+
+**Capacidades ya disponibles y dependencias:**
+
+Capacidades **documentadas en los archivos del equipo** (`main-code.md`, `code-guide.md`); no se han verificado en esta sesión:
+
+- Controlador: PCB XMotion V3 (JSUMO), Arduino Leonardo, librería `xmotionV3.h`.
+- Sensado: 4 sensores IR digitales de oponente (externo izq. pin 0, frontal izq. pin 1, frontal der. pin 2, externo der. pin 4), 2 sensores QTR analógicos de línea (izq. A5, der. A4) y módulo starter (A0).
+- Lógica en el firmware: arranque por starter; evasión del borde con los QTR; ataque según qué sensores IR detectan al oponente; modo búsqueda (paro y giro) si no hay oponente.
+- Calibración de motores por porcentaje (`calib_left = 170`, `calib_right = 255`).
+- Estrategia activada según `code-guide.md`: **#2** (velocidad media hasta detectar oponente y luego cambio de potencia para aprovechar inercia y fricción).
+
+Dependencias entre integrantes: PENDIENTE A AGREGAR.
 
 ## 4 · Integración de Mission Forge C2 y pacto de alcances (65–100 min)
 
@@ -83,52 +95,72 @@ Se conserva íntegro (incluido el frontmatter y la lista de katas). Los nuevos a
 
 | Alias | Kit enlazado | Alcance principal | Complementos | Katas elegidos o nuevos | Horas mín.–máx. | Evidencia final esperada | Negociación aprobada |
 |---|---|---|---|---|---|---|---|
-| [@alias] | [compromiso.md] | [MS01] | [MS02 / ninguno] | [K1, K3 / propio] | [6–8 h] | [CAD ensamblado + prueba] | [Sí / Pendiente; revisor] |
+| @a00574470-hash | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| @carlangas1291 | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| @choco | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| @bynessie | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
 
-**Resultado de negociación grupal:** [Puntos de integración; interfaces entre códigos/firmware/sensores/estructura; prioridad si no hay tiempo.]
+**Resultado de negociación grupal:** PENDIENTE A AGREGAR (puntos de integración; interfaces entre códigos/firmware/sensores/estructura; prioridad si no hay tiempo).
 
 ## 5 · Inventario exhaustivo y especificación de materiales (obligatorio)
 
 ### 5.1 Inventario maestro del equipo
 
-Completar **cada recurso requerido**: estructura, electrónica, actuadores, sensores, herramientas, consumibles, instrumentos, software, datos, red, espacios de ensayo y elementos de seguridad. Añadir filas sin límite.
+Fuente de las filas MAT-002 a MAT-012: `BOM_MOCHI.pdf` (tipo de cambio $17.52 MXN; total del BOM $3,132.02 MXN). Las columnas de cantidad confirmada, ubicación por ítem, responsable por ítem, estado, alternativa y día requerido quedan pendientes porque el equipo aún no las ha confirmado. Ubicación general de materiales: locker de Artemis.
 
-| ID | Categoría | Material o recurso (especificación exacta: modelo, medida, versión o característica) | Cantidad requerida + unidad | Cantidad confirmada | Fuente/proveedor o dueño | Ubicación física o ruta digital | Responsable | Estado (disponible/reservado/falta) | Alternativa compatible | Día requerido |
+| ID | Categoría | Material o recurso (especificación exacta) | Cantidad requerida + unidad | Cantidad confirmada | Fuente/proveedor o dueño | Ubicación física o ruta digital | Responsable | Estado (disponible/reservado/falta) | Alternativa compatible | Día requerido |
 |---|---|---|---|---|---|---|---|---|---|---|
-| MAT-001 | [Robot/plataforma] | [Modelo preciso y compatibilidad] | [1 ud.] | [?] | [laboratorio/equipo] | [armario] | [@alias] | [por confirmar] | [alternativa] | [D1] |
-| MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| MAT-003 | [Herramienta/seguridad/medición] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| MAT-004 | [Software/datos/conectividad] | [SO + versión, ROS/Python/OpenCV o controlador, puerto/red] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| MAT-005 | [Zona de pruebas] | [Pista/dohyō/marcadores/mapa; dimensiones y configuración] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| MAT-001 | Robot/plataforma | Robot MOCHI, mini-sumo autónomo (diseño; referencia visual en el BOM) | 1 ud. | PENDIENTE A AGREGAR | Equipo | Locker de Artemis (confirmación PENDIENTE A AGREGAR) | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-002 | Sensor | JS04F Digital distance sensor (JSUMO): detecta objetos desde 40 cm, 3.3–5 V (15 mA), cable 15 cm, 12.5 × 17.7 × 11.5 mm. $219.00 c/u | 4 ud. | PENDIENTE A AGREGAR | JSUMO | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-003 | Actuador | Core DC Motor JS16661 (JSUMO): 6 V (120 mA), 750 RPM, hasta 15 V. $280.32 c/u | 2 ud. | PENDIENTE A AGREGAR | JSUMO | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-004 | Sensor | QTR-1RC Infrared Sensor, paquete de 2 piezas (JSUMO): 5 V, 20–25 mA, 7.62 × 12.7 × 2.54 mm. $84.10 | 1 paquete (2 pzas) | PENDIENTE A AGREGAR | JSUMO | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-005 | Electrónica | Batería LiPo R-LINE (TATTU): 3S, 11.1 V, 95 C, 21 × 18.5 × 63 mm. $303.00 | 1 ud. | PENDIENTE A AGREGAR | AliExpress | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-006 | Electrónica | PCB XMotion V3 (JSUMO), controlador, 80 × 30 × 7 mm. $787.52 | 1 ud. | PENDIENTE A AGREGAR | JSUMO | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-007 | Mecánica | JS2622S Steel-Silicone Wheel Pair (JSUMO): orificio 3 mm, diámetro 26.5 mm, grosor 22 mm. $254.04 | 1 par | PENDIENTE A AGREGAR | JSUMO | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-008 | Mecánica | Mini Katana Blade (JSUMO), cinta de 3 mm, 22 × 100 × 0.25 mm. $86.72 | 1 ud. | PENDIENTE A AGREGAR | JSUMO | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-009 | Mecánica | Placa de latón para peso, 1/4", 50 × 93 mm. $0.00 | 1 ud. | PENDIENTE A AGREGAR | La paloma | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-010 | Mecánica | Fleje de acero al carbono, grosor 1.18 mm, 99 × 45.3 mm (aprox.). $90.00 c/u | 2 ud. | PENDIENTE A AGREGAR | Digital | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-011 | Tornillería | Tornillo M3 con cabeza avellanada (fijación del fleje). $0.00 | 2 ud. | PENDIENTE A AGREGAR | El tornillo | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-012 | Tornillería | Tornillo M3 con cabeza hueca hexagonal (fijación de motores). $0.00 | 4 ud. | PENDIENTE A AGREGAR | El tornillo | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-013 | Sensor/arranque | Módulo starter (mencionado en `main-code.md`; no aparece en el BOM). Modelo: PENDIENTE A AGREGAR | 1 ud. | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-014 | Software/datos | Arduino IDE (versión: PENDIENTE A AGREGAR) con librería `xmotionV3.h`; firmware en `main-code.md` | — | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| MAT-015 | Zona de pruebas | Dohyō en el laboratorio de electrónica de CTA (dimensiones y rival de referencia: PENDIENTE A AGREGAR) | 1 ud. | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | Laboratorio de electrónica de CTA | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
 
 También disponible el archivo [`datos/inventario_materiales.csv`](../../datos/inventario_materiales.csv) para registrar muchos materiales sin agrandar esta tabla.
 
-### 5.2 Lista de cotejo específica por plataforma (elegir solo la misión asignada)
+### 5.2 Lista de cotejo específica por plataforma (M01 · Mini-sumo autónomo)
 
-| Misión | Revisar y especificar (marca/modelo/cantidad reales) |
+| Elemento de la lista M01 | Estado según los archivos entregados |
 |---|---|
-| M01 · Mini-sumo autónomo | Chasis y material para cuñas, ruedas/motores/soportes, driver, controlador y firmware, batería/cargador/fusible, sensores de borde y rival, cableado/conectores, dohyō/rival de referencia, CAD/impresora 3D/herramientas, instrumentos de medición y protocolo de paro. |
-| M03 · Seguidor de línea | Chasis/ruedas/motores, driver, controlador, barra de sensores reflectivos/soportes, batería/cargador, placa y cableado, pista con curvas y superficie definida, software de programación, cinta/regla/cronómetro/instrumentos y paro seguro. |
-| M04 · Tello Python | **Modelo Tello verificado** y baterías suficientes, cargador, computadora y adaptador Wi-Fi, versión Python y SDK compatible, OpenCV si aplica, marcadores visuales impresos, área interior de vuelo demarcada, supervisor/observador, barreras y protocolo de aterrizaje/abortos. |
-| M05 · AMR ROS 2 | Base AMR y baterías/cargador, computador y distribución ROS 2/paquetes, workspace y repositorio base, sensores (p. ej. lidar/odometría), mapa y TF/localización, RViz/Nav2 si aplica, red de comunicación, estaciones/marcadores, área de navegación acordonada, instrumento de medida y paro seguro. |
+| Chasis y material para cuñas | Placa de latón (MAT-009), fleje de acero (MAT-010) y Mini Katana Blade (MAT-008). Chasis completo: PENDIENTE A AGREGAR |
+| Ruedas/motores/soportes | Ruedas MAT-007, motores MAT-003, tornillería MAT-011 y MAT-012. Soportes: PENDIENTE A AGREGAR |
+| Driver, controlador y firmware | PCB XMotion V3 (MAT-006) y firmware en `main-code.md` |
+| Batería/cargador/fusible | Batería MAT-005. Cargador y fusible: PENDIENTE A AGREGAR |
+| Sensores de borde y rival | QTR (MAT-004) y JS04F (MAT-002) |
+| Cableado/conectores | PENDIENTE A AGREGAR |
+| Dohyō/rival de referencia | Dohyō: ver MAT-015. Rival de referencia: PENDIENTE A AGREGAR |
+| CAD/impresora 3D/herramientas | PENDIENTE A AGREGAR |
+| Instrumentos de medición y protocolo de paro | PENDIENTE A AGREGAR |
 
-**Enlaces a fichas técnicas / instrucciones de conexión, fabricación y seguridad:** [URLs o rutas dentro del repositorio.]
+**Enlaces a fichas técnicas / instrucciones de conexión, fabricación y seguridad:** URLs de productos incluidas en `BOM_MOCHI.pdf` (JSUMO y AliExpress); `code-guide.md` para el código. `XMotion-V3.md` está en el repositorio sin contenido; ficha de la PCB: PENDIENTE A AGREGAR.
 
 ### 5.3 Riesgos de recursos y abastecimiento
 
 | Bloqueante | A qué alcance afecta | Solución prevista / fecha y responsable | Impacto si no se resuelve |
 |---|---|---|---|
-| [material o software aún no validado] | [...] | [...] | [reducir alcance / simulación / replanificar] |
+| Bloqueantes confirmados por el equipo: PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| Por verificar: la batería documentada en `main-code.md` es LiPo 2S 800 mAh y el BOM lista una LiPo 3S 11.1 V 95 C (TATTU) | Alimentación | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
+| Por verificar: cargador, fusible, cableado/conectores y módulo starter no aparecen en el BOM | Alimentación y arranque | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
 
-**Materiales completos para ejecutar el Día 2:** [Sí / Parcial / No]. **Confirmado por:** [docente y responsable equipo] a [fecha/hora].
+**Materiales completos para ejecutar el Día 2:** PENDIENTE A AGREGAR (Sí / Parcial / No). **Confirmado por:** PENDIENTE A AGREGAR.
 
 ## 6 · Kata 0 — exploración técnica de arranque (100–160 min)
 
 | Integrante/alcance | Pregunta técnica | Mini-prueba o prototipo de exploración | Resultado o error observado | Evidencia enlazada | Acción necesaria antes de D2 |
 |---|---|---|---|---|---|
-| [@alias / ID] | [qué quiero verificar] | [qué hice] | [qué ocurrió] | [commit/foto/log] | [acción] |
+| PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
 
-**Integración entre subequipos:** [Qué interfaz se dejó validada: alimentación, dimensiones, tópicos, salida sensorial, etc.]
+**Integración entre subequipos:** PENDIENTE A AGREGAR.
 
 ## 7 · Cierre: contrato técnico y puerta de salida E1 (160–180 min)
 
@@ -141,10 +173,12 @@ También disponible el archivo [`datos/inventario_materiales.csv`](../../datos/i
 - [ ] Se identificaron dependencias y bloqueos del Día 2; están bajo control o se ajustó la misión.
 - [ ] El profesor aprobó el alcance y la seguridad, o registró observaciones y una alternativa viable.
 
-**Estado del gate:** [APROBADO / APROBADO CON CONDICIONES / REPLANIFICAR].
+*(Casillas sin marcar: PENDIENTE A AGREGAR la confirmación de cada una.)*
 
-**Condiciones, responsables, fecha y próxima decisión:** [ ... ]
+**Estado del gate:** PENDIENTE A AGREGAR (APROBADO / APROBADO CON CONDICIONES / REPLANIFICAR).
 
-**Revisor docente:** [ ... ] · **Enlace a commit/PR:** [ ... ]
+**Condiciones, responsables, fecha y próxima decisión:** PENDIENTE A AGREGAR.
+
+**Revisor docente:** PENDIENTE A AGREGAR · **Enlace a commit/PR:** PENDIENTE A AGREGAR
 
 **Criterio mínimo E1:** existe un contrato de misión y frontera individual, hay evidencia del punto de partida, un inventario verificable y un espacio de trabajo autorizado. La ausencia de algún material crítico NO debe esconderse.
