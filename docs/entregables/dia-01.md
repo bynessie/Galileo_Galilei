@@ -1,10 +1,10 @@
 ---
 kaizen_dojo: "2026"
-formato: "Entregable diario G2"
+formato: "Entregable diario"
 evidencia: "E1"
 dia: 1
-responsable_registro: "equipo"
-estado: "PENDIENTE"
+responsable_registro: "ChocoTeam"
+estado: "Completo"
 fecha: "2026-10-26"
 revision_docente: "PENDIENTE"
 ---
