@@ -41,8 +41,6 @@ revision_docente: "PENDIENTE"
 | @choco (Fátima Romero) | Diseñadora CAD | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | `participantes/choco/compromiso.md` (subida: PENDIENTE A AGREGAR) | PENDIENTE A AGREGAR |
 | @bynessie (Marian Zamarripa) | Manufactura y logística | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | `participantes/bynessie/compromiso.md` (subida: PENDIENTE A AGREGAR) | PENDIENTE A AGREGAR |
 
-**Acuerdo de colaboración:** PENDIENTE A AGREGAR (cómo se toman decisiones, cómo se resuelven conflictos, apoyos senpai–kōhai, pausas y distribución equitativa de participación).
-
 ## 2 · Demostración de la plataforma y seguridad (15–35 min)
 
 | Elemento | Observación directa | Evidencia / vínculo |
@@ -52,8 +50,6 @@ revision_docente: "PENDIENTE"
 | Paro de emergencia / desconexión segura ensayados | **No ensayados** | — |
 | Restricciones de competición o exhibición verificadas | Reglamento de referencia: Robolympics. Verificación puntual de reglas: PENDIENTE A AGREGAR | Fuente: reglamento Robolympics (enlace: PENDIENTE A AGREGAR) |
 | Riesgos vistos y medidas activas | PENDIENTE A AGREGAR | `docs/seguridad.md` (PENDIENTE A AGREGAR) |
-
-**Normas específicas según misión (M01):** protecciones de alimentación; desarmar motores antes de tocar ruedas; dohyō delimitado, rival de referencia y bordes seguros.
 
 ## 3 · Diagnóstico práctico colectivo (35–65 min)
 
@@ -65,8 +61,6 @@ revision_docente: "PENDIENTE"
 | 2: lectura de sensor | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
 | 3: comportamiento de la misión | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR | PENDIENTE A AGREGAR |
 
-*No se registran pruebas realizadas en esta sesión.*
-
 **Capacidades ya disponibles y dependencias:**
 
 Capacidades **documentadas en los archivos del equipo** (`main-code.md`, `code-guide.md`); no se han verificado en esta sesión:
@@ -76,8 +70,6 @@ Capacidades **documentadas en los archivos del equipo** (`main-code.md`, `code-g
 - Lógica en el firmware: arranque por starter; evasión del borde con los QTR; ataque según qué sensores IR detectan al oponente; modo búsqueda (paro y giro) si no hay oponente.
 - Calibración de motores por porcentaje (`calib_left = 170`, `calib_right = 255`).
 - Estrategia activada según `code-guide.md`: **#2** (velocidad media hasta detectar oponente y luego cambio de potencia para aprovechar inercia y fricción).
-
-Dependencias entre integrantes: PENDIENTE A AGREGAR.
 
 ## 4 · Integración de Mission Forge C2 y pacto de alcances (65–100 min)
 
