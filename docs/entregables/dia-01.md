@@ -20,9 +20,9 @@ revision_docente: "PENDIENTE"
 | Campo obligatorio | Dato |
 |---|---|
 | Fecha y horario de esta sesión | 2026-10-26; 09:00–11:00 (horario reservado indicado por el equipo) |
-| Nombre / alias del equipo | ChocoTeam (alias con formato `kd26-m01-equipoYY`: PENDIENTE A AGREGAR) |
-| Misión / plataforma | M01 mini-sumo autónomo (robot MOCHI) |
-| Objetivo verificable del robot (una frase) | Optimizar los procesos de un minisumo y realizar un robot 100% competitivo. *(Criterio de éxito medible: PENDIENTE A AGREGAR)* |
+| Nombre / alias del equipo | ChocoTeam |
+| Misión / plataforma | M01 mini-sumo autónomo (robot Galilei) |
+| Objetivo verificable del robot (una frase) | Optimizar los procesos de un minisumo y realizar un robot 100% competitivo.|
 | **Dōjō asignado — campus, edificio y sala/taller exactos** | **Laboratorio de electrónica de CTA** |
 | Puesto o zona dentro del dōjō | Dohyō |
 | Horario / reserva confirmada | 09:00–11:00 del 2026-10-26; autorizó: Camilo Rene Duque |
