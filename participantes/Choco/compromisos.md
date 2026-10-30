@@ -17,7 +17,7 @@ validacion_docente: "PENDIENTE"
 ## 1. Mi misión y mi frontera
 
 - **Participante:** Fátima Roxana Romero Contreras
-- **Equipo:** _Por definir_
+- **Equipo:** ChocoTeam
 - **Plataforma:** M01 · Mini-sumo autónomo
 - **Territorio personal:** E · EXPLORAR
 - **Frontera personal:** F1 · INTEGRAR
